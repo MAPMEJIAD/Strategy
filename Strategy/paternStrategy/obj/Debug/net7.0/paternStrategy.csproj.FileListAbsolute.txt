@@ -1,0 +1,14 @@
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\bin\Debug\net7.0\paternStrategy.exe
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\bin\Debug\net7.0\paternStrategy.deps.json
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\bin\Debug\net7.0\paternStrategy.runtimeconfig.json
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\bin\Debug\net7.0\paternStrategy.dll
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\bin\Debug\net7.0\paternStrategy.pdb
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.AssemblyInfoInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.AssemblyInfo.cs
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.csproj.CoreCompileInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.dll
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\refint\paternStrategy.dll
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.pdb
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\paternStrategy.genruntimeconfig.cache
+D:\АлтГУ\Сессия\АПС\Lab8\paternStrategy-master\paternStrategy\obj\Debug\net7.0\ref\paternStrategy.dll
